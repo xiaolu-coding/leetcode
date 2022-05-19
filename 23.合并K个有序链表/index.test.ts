@@ -1,7 +1,7 @@
 import { describe, expect, it } from "vitest"
 import { mergeKLists, ListNode } from "./index"
 
-describe("测试合并K个有序链表", () => {
+describe.skip("测试合并K个有序链表", () => {
   it("测试用例1", () => {
     let l1: ListNode = new ListNode(1, new ListNode(4, new ListNode(5)))
     let l2: ListNode = new ListNode(1, new ListNode(3, new ListNode(4)))
