@@ -9,3 +9,6 @@
 [141.环形链表](https://github.com/xiaolu-coding/leetcode/tree/master/141.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8)  
 [160.相交链表](https://github.com/xiaolu-coding/leetcode/tree/master/160.%20%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8)  
 [剑指 Offer II 022. 链表中环的入口节点](https://github.com/xiaolu-coding/leetcode/tree/master/%E5%89%91%E6%8C%87%20Offer%20II%20022.%20%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%8E%AF%E7%9A%84%E5%85%A5%E5%8F%A3%E8%8A%82%E7%82%B9)  
+[206. 反转链表](https://github.com/xiaolu-coding/leetcode/tree/master/206.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8)  
+[92. 反转链表 II](https://github.com/xiaolu-coding/leetcode/tree/master/92.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8%20II)  
+[25. K 个一组翻转链表](https://github.com/xiaolu-coding/leetcode/tree/master/25.%20K%20%E4%B8%AA%E4%B8%80%E7%BB%84%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8)  
