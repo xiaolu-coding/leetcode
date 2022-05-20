@@ -29,3 +29,17 @@ export function reverseList(head: ListNode | null): ListNode | null {
   head.next = null
   return last
 }
+
+export function reverseList1(head: ListNode | null): ListNode | null {
+  let pre, cur, next
+  pre = null
+  cur = head
+  next = head
+  while (cur !== null) {
+    next = cur.next
+    cur.next = pre
+    pre = cur
+    cur = next
+  }
+  return pre
+}
